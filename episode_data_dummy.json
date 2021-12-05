@@ -1,0 +1,10 @@
+{
+    "container_subheading": "This is Totally a Test",
+    "media_source_title": "Media Title Here",
+    "media_source_desc": "It's a media to be played in bitmovin",
+    "media_source_poster_uri": "https://cdn.jsdelivr.net/npm/@googledrive/index@2.0.26/images/poster.jpg",
+    "media_source_dash_manifest_uri": "//raw.githubusercontent.com/PH4NTOM-3NCOD3R/bento4test/main/stream.mpd",
+    "media_source_hls_manifest_uri": "//raw.githubusercontent.com/PH4NTOM-3NCOD3R/bento4test/main/master.m3u8",
+    "clearkey_enc_key": "af99b13e61e81a21624c7f874324af9d",
+    "clearkey_enc_kid": "73f0ede058f0e50d228437fe7c71d786"
+}
